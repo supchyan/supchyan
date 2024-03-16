@@ -1,3 +1,3 @@
 ```asm
-* Hi. I'm supchyan_
+* Hi. I'm supchyan.
 ```
