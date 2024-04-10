@@ -1,3 +1,3 @@
-```asm
+```json
 * Hi. I'm supchyan.
 ```
