@@ -1,2 +1,2 @@
-### <div align=left>`🐳` `Damn, Rust is cool.` <a href=https://motocross-arts.tumblr.com/ />`art author`</a></div>
-<div align=left><img src=https://64.media.tumblr.com/dd86c523530f93b28210a47b0d88d1f6/2c1393408b932961-eb/s1280x1920/12d15c414b805a298ee90a3cdd2f2d32163cf763.gifv></div>
+### <div align=center>`!!!`</div>
+<div align=center><img src=https://github.com/user-attachments/assets/52a6fb33-9271-4946-bd88-8a89505a0f0d></div>
