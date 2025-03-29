@@ -1,5 +1,6 @@
-```c#
-_ = "I want to work on `client <--> server` applications, so I study hard to get into all of these crypto beep to stuff!";
+```csharp
+_ = "I want to work on `client <--> server` applications,\n"+
+    "so I study hard to get into all of these crypto beep to stuff!";
 ```
 
 ### <div align=right>`(x) C3 EE E2 EE F0 E8 F2 FC`</div>
