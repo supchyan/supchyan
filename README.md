@@ -1,7 +1,5 @@
-```csharp
-_ = "I want to work on `client <--> server` applications,\n"+
-    "so I study hard to get into all of these crypto beep to stuff!";
+```C#
+// my way became with an idea to add an anime waifu into the terraria game, so here i am.
 ```
 
-### <div align=right>`(x) C3 EE E2 EE F0 E8 F2 FC`</div>
-<div align=center><img src=https://github.com/user-attachments/assets/52a6fb33-9271-4946-bd88-8a89505a0f0d></div>
+<div align=center><img src=https://github.com/user-attachments/assets/539f98b7-62a7-468f-9a88-2cce6a4e5bc0></div>
