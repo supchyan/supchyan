@@ -1,1 +1,1 @@
-ahah ahhahhahah..
+I'm pretty depressed and cannot to find motivation to study code -o-
