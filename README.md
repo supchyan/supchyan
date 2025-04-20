@@ -1,1 +1,1 @@
-I'm pretty depressed and cannot to find motivation to study code -o-
+I'm pretty depressed and cannot find a motivation to study code -o-
