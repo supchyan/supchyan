@@ -5,3 +5,9 @@
         <img alt="Logo" src="https://github.com/supchyan/supchyan/blob/main/bar-dark-soft.svg">
     </picture>
 </a>
+
+```
+why blind ppl cannot become programmers?
+because they
+cannot see sharp
+```
