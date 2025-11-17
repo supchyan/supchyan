@@ -7,7 +7,7 @@
 </a>
 
 ```
-why blind ppl cannot become programmers?
+why blind people cannot become programmers?
 because they
 cannot see sharp
 ```
