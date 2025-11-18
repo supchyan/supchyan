@@ -5,6 +5,8 @@
         <img alt="Logo" src="https://github.com/supchyan/supchyan/blob/main/bar-msg-dark.svg">
     </picture>
 </a>
+<br />
+<br />
 
 ```
 why blind people cannot become programmers?
