@@ -14,7 +14,7 @@
     attributeName="opacity"
     begin=".05s"
     dur="0.8s"
-    values="0 ; 0 ; 0 ; .2 ; 1 ; 0"
+    values="0 ; 0 ; .1 ; .5 ; 1 ; 0"
     keyTimes="0 ; .2 ; .4 ; .6 ; .8 ; 1"
     repeatCount="indefinite" />
 </text>
