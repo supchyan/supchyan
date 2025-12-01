@@ -5,11 +5,3 @@
         <img alt="bar" src="https://github.com/supchyan/supchyan/blob/main/bar-input-dark.svg">
     </picture>
 </a>
-
-```
-why blind people cannot become programmers?
-because they
-cannot see sharp
-```
-
-<div align=center><i>***</i></div>
