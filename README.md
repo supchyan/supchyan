@@ -5,3 +5,5 @@
         <img alt="bar" src="https://github.com/supchyan/supchyan/blob/main/bar-input-dark.svg">
     </picture>
 </a>
+<br><br>
+<div align=center>profile pic copyright: <a href="https://weibo.com/p/1005056349852401/">丁丁框</a></div>
