@@ -6,4 +6,3 @@
     </picture>
 </a>
 <br><br>
-<div align=center>profile pic copyright: <a href="https://weibo.com/p/1005056349852401/">丁丁框</a></div>
